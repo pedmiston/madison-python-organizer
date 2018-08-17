@@ -10,3 +10,6 @@
 [submodule "organizers"]
 	path = organizers
 	url = git@github.com:madison-python/organizers.git
+[submodule "schedule"]
+	path = schedule
+	url = git@github.com:madison-python/schedule.git
