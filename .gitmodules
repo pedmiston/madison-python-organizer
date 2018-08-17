@@ -10,3 +10,6 @@
 [submodule "madpy.com"]
 	path = madpy.com
 	url = git@github.com:madison-python/madpy.com.git
+[submodule "organizers"]
+	path = organizers
+	url = git@github.com:madison-python/organizers.git
